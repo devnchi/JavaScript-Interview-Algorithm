@@ -1,1 +1,1 @@
-# JavaScript-Interview-Algorithm
+# JavaScript Interview Algorithm
